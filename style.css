@@ -1,0 +1,41 @@
+button{
+    border: 2px solid #f30606;
+    background-color: rgb(37, 255, 8);
+    padding: 4px;
+    border-radius: 10px;
+    
+}
+button:hover{
+    border: 2px solid #f50202fd;
+    background-color: aliceblue;
+    padding: 5px;
+}
+
+
+div{
+    margin: 10px;
+    border-bottom: 1px solid #5d09fa;
+    padding-bottom: 10px;
+    width: 300px;
+}
+
+.title{
+   
+    padding-right: 5px;
+    text-align: right;
+    width: 200px;
+}
+
+
+.radio-button label{
+    float: left;
+}
+
+#submit{
+text-align: right;
+}
+
+
+a{
+    cursor: move;
+}
